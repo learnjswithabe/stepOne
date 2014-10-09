@@ -1,0 +1,24 @@
+[user]
+	name = 
+	email = 
+[credential]
+	helper = osxkeychain
+[color]
+	ui = auto
+[pack]
+	threads = 0
+[diff]
+	renamelimit = 0
+[merge]
+	stat = true
+[rebase]
+	stat = true
+[push]
+	default = simple
+[alias]
+        ci = commit
+	co = checkout
+	st = status
+	br = branch
+	hist = log --graph --all --decorate --oneline
+	hist-v = log --graph --all --decorate --pretty=short
