@@ -14,11 +14,12 @@ Syntax to view html files in the browser: file:///users/austin/dev/abe/stepOne/c
 
 EXAMPLE TERMINAL COMMANDS:
 
-ls		= list contents of current directory
-ls <dir name>	= list contents of named directory
-ls -al		= list contents with all details in a listed manner
-cd <dir name> 	= change directory
-mkdir <name>	= make directory
+ls			= list contents of current directory
+ls <dir name>		= list contents of named directory
+ls -al			= list contents with all details in a listed manner
+cd <dir name> 		= change directory
+mkdir <dir name>	= make directory
+vi <file name>		= open file to be edited
 
 GIT EXAMPLE COMMANDS:
 
